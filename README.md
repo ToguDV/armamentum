@@ -1,7 +1,7 @@
 # Armamentum
 
-Mod de ejemplo de **Fabric** (Minecraft **1.21.1**, Yarn, Java 21) para aprender
-**dónde va cada cosa** al añadir items custom.
+Mod de **Fabric** (Minecraft **1.21.1**, Yarn, Java 21) para aprender
+**sobre mods de minecraft** al añadir items custom.
 
 Items de ejemplo: `armamentum_ingot` (simple), `armamentum_sword` /
 `armamentum_pickaxe` (herramientas con material propio), `armamentum_apple`
