@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "armamentum",
+  "version": "${version}",
+  "name": "Armamentum",
+  "description": "Mod de ejemplo con items custom (material, espada, pico, comida y varita) para aprender la estructura de un mod de Fabric.",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/armamentum/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "org.teamjava.armamentum.client.ArmamentumClient"
+    ],
+    "main": [
+      "org.teamjava.armamentum.Armamentum"
+    ]
+  },
+  "mixins": [
+    "armamentum.mixins.json",
+    {
+      "config": "armamentum.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

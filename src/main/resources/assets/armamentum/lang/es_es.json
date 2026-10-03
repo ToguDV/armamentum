@@ -1,0 +1,9 @@
+{
+  "itemGroup.armamentum.armamentum": "Armamentum",
+  "item.armamentum.armamentum_ingot": "Lingote de Armamentum",
+  "item.armamentum.armamentum_sword": "Espada de Armamentum",
+  "item.armamentum.armamentum_pickaxe": "Pico de Armamentum",
+  "item.armamentum.armamentum_apple": "Manzana de Armamentum",
+  "item.armamentum.armamentum_wand": "Varita de Armamentum",
+  "item.armamentum.armamentum_wand.tooltip": "Clic derecho: Velocidad + Salto"
+}

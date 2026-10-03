@@ -1,0 +1,9 @@
+{
+  "itemGroup.armamentum.armamentum": "Armamentum",
+  "item.armamentum.armamentum_ingot": "Armamentum Ingot",
+  "item.armamentum.armamentum_sword": "Armamentum Sword",
+  "item.armamentum.armamentum_pickaxe": "Armamentum Pickaxe",
+  "item.armamentum.armamentum_apple": "Armamentum Apple",
+  "item.armamentum.armamentum_wand": "Armamentum Wand",
+  "item.armamentum.armamentum_wand.tooltip": "Right click: Speed + Jump Boost"
+}

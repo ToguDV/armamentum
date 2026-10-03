@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "pattern": [
+    "IGI",
+    "GIG",
+    "IGI"
+  ],
+  "result": {
+    "count": 1,
+    "id": "armamentum:armamentum_ingot"
+  }
+}
